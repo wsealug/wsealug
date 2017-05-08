@@ -11,6 +11,6 @@ What questions can I answer for you?
 
 Cheers,
 
-Adam Glenn
+<YOUR_NAME>
 
 Seattle #WSeaLug leadership team
