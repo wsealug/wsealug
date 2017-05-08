@@ -1,4 +1,4 @@
-<NAME>,
+\<NAME>,
 
 Thank you for joining the the West Seattle Linux User Group (WSeaLUG). We're a welcoming community of folks who gather to talk about Linux and Linux related tech in West Seattle.
 
