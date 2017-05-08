@@ -13,4 +13,4 @@ Cheers,
 
 <YOUR_NAME>
 
-Seattle #WSeaLug leadership team
+Seattle #WSeaLUG leadership team
