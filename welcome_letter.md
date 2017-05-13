@@ -4,7 +4,7 @@ Thank you for joining the the West Seattle Linux User Group (WSeaLUG). We're a w
 
 I hope you'll join us Saturday, <NEXT_MEETING_DATE> from 9:00 - 10:00AM for the next #WSeaLUG meet-up.
 
-To promote a welcoming community, the WSeaLUG leadership team has adopted a
+To promote a welcoming community, the WSeaLUG Leadership Team has adopted a
 Code of Conduct (https://github.com/wsealug/wsealug/blob/master/code_of_conduct.md).
 
 What questions can I answer for you?
